@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\nastolegames\\entity\\modelnastole.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:nastolegames\\entity\\modelnastole.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|c:\\users\\vakul\\source\\repos\\nastolegames\\nastolegames\\view\\wincreateorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:nastolegames\\view\\wincreateorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|c:\\users\\vakul\\source\\repos\\nastolegames\\nastolegames\\entity\\modelnastole.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:nastolegames\\entity\\modelnastole.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\nastolegames\\view\\wincatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:nastolegames\\view\\wincatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\nastolegames\\view\\wincatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:nastolegames\\view\\wincatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\ModelNastole.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\Entity\\ModelNastole.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\nastolegames\\view\\zastavka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:nastolegames\\view\\zastavka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vakul\\AppData\\Local\\Temp\\.vsdbgsrc\\31665843623b4f82522a9b2b77f95e2cea82004619857b07a413f279b682ec71\\Window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinAdmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\View\\WinAdmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\Entity\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinAdmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\View\\WinAdmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCreateOrder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B1171-D2B5-45BF-9258-EA8B3D43346F}|NastoleGames\\NastoleGames.csproj|solutionrelative:NastoleGames\\View\\WinCreateOrder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinCreateOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCreateOrder.xaml",
+              "RelativeDocumentMoniker": "NastoleGames\\View\\WinCreateOrder.xaml",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCreateOrder.xaml",
+              "RelativeToolTip": "NastoleGames\\View\\WinCreateOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T09:01:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinCatalog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCatalog.xaml.cs",
+              "RelativeDocumentMoniker": "NastoleGames\\View\\WinCatalog.xaml.cs",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCatalog.xaml.cs",
+              "RelativeToolTip": "NastoleGames\\View\\WinCatalog.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:23:53.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinCatalog.xaml",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCatalog.xaml",
+              "RelativeDocumentMoniker": "NastoleGames\\View\\WinCatalog.xaml",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCatalog.xaml",
+              "RelativeToolTip": "NastoleGames\\View\\WinCatalog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T06:23:53.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "NastoleGames\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\User.cs",
+              "RelativeToolTip": "NastoleGames\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:23:53.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelNastole.Context.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\ModelNastole.Context.cs",
+              "RelativeDocumentMoniker": "NastoleGames\\Entity\\ModelNastole.Context.cs",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\ModelNastole.Context.cs",
+              "RelativeToolTip": "NastoleGames\\Entity\\ModelNastole.Context.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelNastole.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\ModelNastole.edmx",
+              "RelativeDocumentMoniker": "NastoleGames\\Entity\\ModelNastole.edmx",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\ModelNastole.edmx [Diagram1]",
+              "RelativeToolTip": "NastoleGames\\Entity\\ModelNastole.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelNastole.Context.tt",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\ModelNastole.Context.tt",
+              "RelativeDocumentMoniker": "NastoleGames\\Entity\\ModelNastole.Context.tt",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\Entity\\ModelNastole.Context.tt",
+              "RelativeToolTip": "NastoleGames\\Entity\\ModelNastole.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-11T12:28:30.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zastavka.xaml",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\Zastavka.xaml",
+              "RelativeDocumentMoniker": "NastoleGames\\View\\Zastavka.xaml",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\Zastavka.xaml",
+              "RelativeToolTip": "NastoleGames\\View\\Zastavka.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T12:17:10.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\AppData\\Local\\Temp\\.vsdbgsrc\\31665843623b4f82522a9b2b77f95e2cea82004619857b07a413f279b682ec71\\Window.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\31665843623b4f82522a9b2b77f95e2cea82004619857b07a413f279b682ec71\\Window.cs",
+              "ToolTip": "C:\\Users\\vakul\\AppData\\Local\\Temp\\.vsdbgsrc\\31665843623b4f82522a9b2b77f95e2cea82004619857b07a413f279b682ec71\\Window.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\31665843623b4f82522a9b2b77f95e2cea82004619857b07a413f279b682ec71\\Window.cs",
+              "ViewState": "AQIAABkTAAAAAAAAAAArwCYTAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:22:43.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NastoleGames\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\MainWindow.xaml",
+              "RelativeToolTip": "NastoleGames\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WinAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "NastoleGames\\View\\WinAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinAdmin.xaml.cs",
+              "RelativeToolTip": "NastoleGames\\View\\WinAdmin.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:23:53.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NastoleGames\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.xaml.cs",
+              "RelativeToolTip": "NastoleGames\\App.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NastoleGames\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NastoleGames\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WinAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinAdmin.xaml",
+              "RelativeDocumentMoniker": "NastoleGames\\View\\WinAdmin.xaml",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinAdmin.xaml",
+              "RelativeToolTip": "NastoleGames\\View\\WinAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.config",
+              "RelativeDocumentMoniker": "NastoleGames\\App.config",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.config",
+              "RelativeToolTip": "NastoleGames\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.xaml",
+              "RelativeDocumentMoniker": "NastoleGames\\App.xaml",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\App.xaml",
+              "RelativeToolTip": "NastoleGames\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T06:23:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WinCreateOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCreateOrder.xaml.cs",
+              "RelativeDocumentMoniker": "NastoleGames\\View\\WinCreateOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\vakul\\source\\repos\\NastoleGames\\NastoleGames\\View\\WinCreateOrder.xaml.cs",
+              "RelativeToolTip": "NastoleGames\\View\\WinCreateOrder.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA2wCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:23:53.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

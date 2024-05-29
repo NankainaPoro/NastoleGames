@@ -1,0 +1,85 @@
+﻿<Application x:Class="NastoleGames.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NastoleGames"
+             StartupUri="View/Zastavka.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="IsMouseOver" Value="True"/>
+                        <Condition Property="IsFocused" Value="True"/>
+                    </MultiTrigger.Conditions>
+                    <Setter Property="RenderTransform">
+                        <Setter.Value>
+                            <RotateTransform Angle="3"/>
+                        </Setter.Value>
+                    </Setter>
+                    <Setter Property="Foreground" Value="Black"/>
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="TotalFont" TargetType="Control">
+            <Setter Property="FontFamily" Value="Segoe Print"/>
+            <Setter Property="Foreground" Value="#000000"/>
+        </Style>
+        <!--<Style x:Key="ButtonKrug" TargetType="Button">
+            <Setter Property="BorderBrush" Value="Aqua"/>
+            <Setter Property="BorderThickness" Core/>
+        </Style>-->
+        <ControlTemplate TargetType="Button" x:Key="btTemplateCatalog">
+            <Border CornerRadius="25" BorderBrush="Black" BorderThickness="3"
+                    Background="#DDA0DD" Height="100" Width="400" >
+                <ContentControl Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Каталог"/>
+            </Border>
+        </ControlTemplate>
+        <ControlTemplate TargetType="Button" x:Key="btTemplateOrder">
+            <Border CornerRadius="25" BorderBrush="Black" BorderThickness="3"
+                    Background="#DDA0DD" Height="100" Width="400" >
+                <ContentControl Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Сделать заказ"/>
+            </Border>
+        </ControlTemplate>
+        <ControlTemplate TargetType="Button" x:Key="btTemplateUpd">
+            <Border CornerRadius="25" BorderBrush="Black" BorderThickness="3"
+                    Background="#DDA0DD" Height="100" Width="400" >
+                <ContentControl Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Обновить каталог"/>
+            </Border>
+        </ControlTemplate>
+        <ControlTemplate TargetType="Button" x:Key="btTemplateRegOrder">
+            <Border CornerRadius="25" BorderBrush="Black" BorderThickness="3"
+                    Background="#DDA0DD" Height="100" Width="400" >
+                <ContentControl Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Оформить заказ"/>
+            </Border>
+        </ControlTemplate>
+        <ControlTemplate TargetType="Button" x:Key="btTemplateInput">
+            <Border CornerRadius="25" BorderBrush="Black" BorderThickness="3"
+                    Background="#DDA0DD" Height="80" Width="280" >
+                <ContentControl Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Войти"/>
+            </Border>
+        </ControlTemplate>
+        <!--<ControlTemplate TargetType="Button" x:Key="btImg">
+            <Grid>
+                <Image Name="image1"
+                Source="/Resource/Exit1.png"
+                Stretch="None"
+                Visibility="Visible" />
+                <Image Name="image2"
+                Source="/Resource/Exit2.png"
+                Stretch="None"
+                Visibility="Collapsed"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver"
+                  Value="true">
+                    <Setter TargetName="image1"
+                  Property="Visibility"
+                  Value="Collapsed" />
+                    <Setter TargetName="image2"
+                  Property="Visibility"
+                  Value="Visible" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>-->
+    </Application.Resources>
+</Application>

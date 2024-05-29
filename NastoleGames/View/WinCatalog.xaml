@@ -1,0 +1,25 @@
+﻿<Window x:Class="NastoleGames.View.WinCatalog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NastoleGames.View"
+        mc:Ignorable="d"
+        Title="WinCatalog" Height="450" Width="800">
+    <Grid Width="auto" Height="auto">
+        <Grid.RowDefinitions>
+                <RowDefinition Height="1.1*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="0.8*"/>
+            </Grid.RowDefinitions>
+        <Button x:Name="ButCatalog" Content="Возврат в главное меню" Click="ButCatalog_Click" Grid.Row="0"/>
+
+        <DataGrid x:Name="lvCatalog" Grid.Row="1" SelectionChanged="lvCatalog_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="" Width="3*" Binding="{Binding Path=Name}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+
+
+</Window>
